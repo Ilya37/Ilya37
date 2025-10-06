@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working in Ali Express as Data Engineer
-- 🌱 I’m currently learning Python, SQL and Modern Data Stack
+- 🔭 I’m working in Raiffeisen Bank as Data Engineer
+- 🌱 I’m learning Python, SQL and Modern Data Stack
 
 <h1>🛠️ Tools I use:</h2>
 
